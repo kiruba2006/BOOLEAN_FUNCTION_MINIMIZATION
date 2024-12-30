@@ -43,7 +43,9 @@ endmodule
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:24900445
+Developed by: Kiruba RC
+
+RegisterNumber:24900445
 
 
 **RTL realization**
