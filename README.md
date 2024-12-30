@@ -33,7 +33,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
-```module exp2(a,b,c,d,f1,w,x,y,z,f2);
+```
+module exp2(a,b,c,d,f1,w,x,y,z,f2);
 input a,b,c,d,w,x,y,z;
 output f1,f2;
 assign f1=((~b&~d)|(~a&b&d)|(a&b&~c));
